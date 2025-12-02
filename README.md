@@ -4,7 +4,7 @@ I'm using HTML, CSS, and JavaScript to make websites. ✨
 
 ---
 
-## 💻 I love working with
+## I love working with
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
