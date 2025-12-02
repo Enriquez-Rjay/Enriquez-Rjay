@@ -1,10 +1,10 @@
-# Hello There 👋
+<img width="467" height="47" alt="image" src="https://github.com/user-attachments/assets/8b41d578-1b5d-4035-8d7a-43eabaaeb0df" /># Hello There 👋
 
 I'm using HTML, CSS, and JavaScript to make websites. ✨
 
 ---
 
-## I love working with
+## I love working with:
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -16,13 +16,13 @@ I'm using HTML, CSS, and JavaScript to make websites. ✨
 
 ---
 
-## 🚀 I'm working on
-- Project A
-- Project B
+## 🚀 I'm working on:
+· Projects for freelance clients.
+. Growing Upbeat Code to 100k/month visitors.
 
 ---
 
-## 🌱 I'm learning
+## 🌱 I'm learning:
 <p align="left">
   <img src="https://img.shields.io/badge/Hyperledger-2C2C2C?style=for-the-badge&logo=hyperledger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
@@ -32,8 +32,9 @@ I'm using HTML, CSS, and JavaScript to make websites. ✨
 
 ---
 
-## 🤝 I'm looking for help with
-- Integrating AI models into web apps.
+## 🤝 I'm looking for help with:
+. Integrating Al models to web applications
+
 
 ---
 
