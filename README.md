@@ -39,18 +39,19 @@ I'm using HTML, CSS, and JavaScript to make websites. ✨
 
 ## 📫 How to reach me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://twitter.com/codewithbernard" target="_blank">
-    <img src="https://img.shields.io/badge/CodeWithBernard-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE">
+    <img src="https://img.shields.io/badge/CodeWithBernard-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
-  <a href="https://medium.com/@YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="https://medium.com/@YOUR-MEDIUM-USERNAME">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
