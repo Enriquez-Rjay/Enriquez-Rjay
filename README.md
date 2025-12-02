@@ -23,7 +23,12 @@ I'm using HTML, CSS, and JavaScript to make websites. ✨
 ---
 
 ## 🌱 I'm learning
-<!-- learning badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Hyperledger-2C2C2C?style=for-the-badge&logo=hyperledger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+</p>
+
 
 ---
 
@@ -33,7 +38,20 @@ I'm using HTML, CSS, and JavaScript to make websites. ✨
 ---
 
 ## 📫 How to reach me
-[![LinkedIn](...)](...)
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://twitter.com/codewithbernard" target="_blank">
+    <img src="https://img.shields.io/badge/CodeWithBernard-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://medium.com/@YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
