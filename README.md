@@ -1,4 +1,4 @@
-# 👋 Hi there
+# Hello There 👋
 
 I'm **YOUR NAME** — web developer building clean, fast experiences. ✨
 
