@@ -1,16 +1,36 @@
-## Hi there 👋
+cat > README.md <<'EOF'
+# 👋 Hi there
 
-<!--
-**Enriquez-Rjay/Enriquez-Rjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **YOUR NAME** — web developer building clean, fast experiences. ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 I love working with
+<!-- badges -->
+
+---
+
+## 🚀 I'm working on
+- Project A
+- Project B
+
+---
+
+## 🌱 I'm learning
+<!-- learning badges -->
+
+---
+
+## 🤝 I'm looking for help with
+- Integrating AI models into web apps.
+
+---
+
+## 📫 How to reach me
+[![LinkedIn](...)](...)
+
+---
+
+## ⚡ Fun fact
+I'm definitely **not a cat person.**
+EOF
