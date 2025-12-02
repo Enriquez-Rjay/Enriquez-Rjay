@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # 👋 Hi there
 
 I'm **YOUR NAME** — web developer building clean, fast experiences. ✨
