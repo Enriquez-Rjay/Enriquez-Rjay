@@ -1,16 +1,15 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+FRINCE R-JAY+ENRIQUEZ;Flutter+%7C+Web+Developer;Aspiring+Full-Stack+Engineer" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Enriquez+Rjay+%F0%9F%91%8B;IT+Student+%7C+Web+%26+Mobile+App+Developer;Learning+Flutter%2C+Web+Dev%2C+and+Databases" alt="Typing SVG" />
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 **IT Student**
-- 📱 **Flutter Developer**
-- 🌐 **Web Developer**
-- 🚀 Aspiring **Full-Stack Developer**
-- 💡 Passionate about **UI/UX & Mobile Apps**
+### R-jay Enriquez
+**IT Student · Flutter & Web Developer · Aspiring Full‑Stack Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-razumbrado-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razumbrado)
+
+</div>
 
 ---
 
@@ -103,17 +102,44 @@
 
 ---
 
-## 📱 App Screens (UI Preview)
+## 🖼️ App Screens (UI Preview)
 
-<p align="center">
-  <img src="assets/Home.jpg" width="200"/>
-  <img src="assets/Scan.jpg" width="200"/>
-  <img src="assets/Analytics.jpg" width="200"/>
-  <img src="assets/History.jpg" width="200"/>
-</p>
+<div align="center">
+
+| Home | Scan | Analytics | History |
+|:----:|:----:|:---------:|:-------:|
+| [<img src="Application_Screenshots/Home.jpg" alt="Home Page" width="230" />](https://github.com/Enriquez-Rjay/Enriquez-Rjay/blob/main/Application_Screenshots/Home.jpg) | [<img src="Application_Screenshots/Scan.jpg" alt="Scan Page" width="230" />](https://github.com/Enriquez-Rjay/Enriquez-Rjay/blob/main/Application_Screenshots/Scan.jpg) | [<img src="Application_Screenshots/Analytics.jpg" alt="Analytics Page" width="230" />](https://github.com/Enriquez-Rjay/Enriquez-Rjay/blob/main/Application_Screenshots/Analytics.jpg) | [<img src="Application_Screenshots/Logs.jpg" alt="History Page" width="230" />](https://github.com/Enriquez-Rjay/Enriquez-Rjay/blob/main/Application_Screenshots/Logs.jpg) |
+
+</div>
 
 ---
 
-## ⚡ Fun fact
-I'm definitely **not a cat person.**
-EOF
+</div>
+
+## 💼 Other Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Repository |
+|:--------|:------------|:-----------|:-----------|
+| **Enriquez_IT120_Act1** | Programming activities and exercises for IT120 | `Python` | [View Repo](https://github.com/Enriquez-Rjay/Enriquez_IT120_Act1.git) |
+| **IT108** | Web development activities and fundamentals | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/Enriquez-Rjay/IT108.git) |
+| **Enriquez_Quiz** | Quiz and practice projects for IT108 | `Web` | [View Repo](https://github.com/Enriquez-Rjay/IT108/tree/e0d1b9c88d7a984aa72b87dabfed1931577223e0/Enriquez_Quiz) |
+| **Flutter_Widget_UIComponents** | Reusable Flutter UI components and widgets | `Flutter` `Dart` | [View Repo](https://github.com/Enriquez-Rjay/Enriquez_IT120_Act1/tree/main/Flutter_Widget_UIComponents) |
+| **Mysql-Trigger-Implementation-Enriquez-** | MySQL trigger implementation and automation | `MySQL` `Database` | [View Repo](https://github.com/Enriquez-Rjay/Mysql-Trigger-Implementation-Enriquez-.git) |
+| **Enriquez_Meal_Type_Classification_FinalProject** | Academic final project using multiple technologies | `Multiple Technologies` | [View Repo](https://github.com/Enriquez-Rjay/Enriquez_Meal_Type_Classification_FinalProject.git) |
+
+</div>
+
+---
+
+---
+
+## 👩‍💻 About Me
+- 🎓 **IT Student**
+- 📱 **Flutter Developer**
+- 🌐 **Web Developer**
+- 🚀 Aspiring **Full-Stack Developer**
+- 💡 Passionate about **UI/UX & Mobile Apps**
+
+---
