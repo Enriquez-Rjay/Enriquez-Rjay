@@ -1,0 +1,10 @@
+0 Burger
+1 Egg
+2 Chicken
+3 Fries
+4 Noodles
+5 Pizza
+6 Rice
+7 Salad
+8 Sandwich
+9 Soup
