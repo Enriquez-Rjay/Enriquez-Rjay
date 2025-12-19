@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ricamae+Azu;Flutter+%7C+Web+Developer;Aspiring+Full-Stack+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+FRINCE R-JAY+ENRIQUEZ;Flutter+%7C+Web+Developer;Aspiring+Full-Stack+Engineer" />
 </p>
 
 ---
@@ -23,8 +23,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAZUMBRADO&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAZUMBRADO&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RJAY&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RJAYtheme=tokyonight&hide_border=true" width="420"/>
 </p>
 
 ---
@@ -38,8 +38,8 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://github.com/RAZUMBRADO">
-    <img src="https://img.shields.io/badge/GitHub-RAZUMBRADO-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/RJAY">
+    <img src="https://img.shields.io/badge/GitHub-RJAY-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
