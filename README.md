@@ -1,6 +1,54 @@
-<img width="467" height="47" alt="image" src="https://github.com/user-attachments/assets/8b41d578-1b5d-4035-8d7a-43eabaaeb0df" /># Hello There 👋
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ricamae+Azu;Flutter+%7C+Web+Developer;Aspiring+Full-Stack+Engineer" />
+</p>
 
-I'm using HTML, CSS, and JavaScript to make websites. ✨
+---
+
+## 👩‍💻 About Me
+- 🎓 **IT Student**
+- 📱 **Flutter Developer**
+- 🌐 **Web Developer**
+- 🚀 Aspiring **Full-Stack Developer**
+- 💡 Passionate about **UI/UX & Mobile Apps**
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,php,mysql,firebase,git,github&perline=5" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAZUMBRADO&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAZUMBRADO&theme=tokyonight&hide_border=true" width="420"/>
+</p>
+
+---
+
+## 📱 Featured App UI
+<p align="center">
+  <img src="assets/ui-preview.png" width="800"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/RAZUMBRADO">
+    <img src="https://img.shields.io/badge/GitHub-RAZUMBRADO-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+⭐ *“Building apps that are simple, useful, and impactful.”*
 
 ---
 
