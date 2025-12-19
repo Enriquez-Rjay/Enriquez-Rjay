@@ -58,10 +58,10 @@ I'm using HTML, CSS, and JavaScript to make websites. ✨
 ## 📱 App Screens (UI Preview)
 
 <p align="center">
-  <img src="assets/home.jpg" width="200"/>
-  <img src="assets/scan.jpg" width="200"/>
-  <img src="assets/analytics.jpg" width="200"/>
-  <img src="assets/history.jpg" width="200"/>
+  <img src="assets/Home.jpg" width="200"/>
+  <img src="assets/Scan.jpg" width="200"/>
+  <img src="assets/Analytics.jpg" width="200"/>
+  <img src="assets/History.jpg" width="200"/>
 </p>
 
 ---
