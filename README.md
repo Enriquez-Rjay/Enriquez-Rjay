@@ -21,17 +21,16 @@
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RJAY&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RJAYtheme=tokyonight&hide_border=true" width="420"/>
-</p>
 
----
+<div align="center">
 
-## 📱 Featured App UI
-<p align="center">
-  <img src="assets/ui-preview.png" width="800"/>
-</p>
+<!-- Main stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Enriquez-Rjay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="R-jay's GitHub Stats" />
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enriquez-Rjay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+</div>
 
 ---
 
