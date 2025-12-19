@@ -4,7 +4,7 @@
 
 ---
 
-### R-jay Enriquez
+### Rjay Enriquez
 **IT Student · Flutter & Web Developer · Aspiring Full‑Stack Developer**
 
 </div>
